@@ -1,0 +1,12 @@
+
+[@sample] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/MagLogin.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: FAILED
+
+[@sample] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/MagLogin.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: FAILED

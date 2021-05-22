@@ -1,0 +1,6 @@
+
+[@sample] STARTED
+FEATURE: file:///D:/STAG/AutoFW/src/test/resources/features/Sample.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: FAILED

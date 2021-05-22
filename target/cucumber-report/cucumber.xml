@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="Test Suite" skipped="0" tests="4" time="212.893">
+
+<testcase classname="Demo Automation scenarios" name="Demo Automation register page" time="58.558">
+<system-out><![CDATA[Given the user open "http://demo.automationtesting.in/Register.html" application.passed
+When the user verify page title "Automation Demo Site"......................passed
+Then the user verify rigister page fields...................................passed
+]]></system-out>
+</testcase>
+
+<testcase classname="Demo Automation scenarios" name="Demo Automation register page 2" time="51.701">
+<system-out><![CDATA[Given the user open "http://demo.automationtesting.in/Register.html" application.passed
+When the user verify page title "Automation Demo Site"......................passed
+Then the user verify rigister page fields...................................passed
+]]></system-out>
+</testcase>
+
+<testcase classname="Demo Automation scenarios" name="Demo Automation register page 3" time="50.221">
+<system-out><![CDATA[Given the user open "http://demo.automationtesting.in/Register.html" application.passed
+When the user verify page title "Automation Demo Site"......................passed
+Then the user verify rigister page fields...................................passed
+]]></system-out>
+</testcase>
+
+<testcase classname="Demo Automation scenarios" name="Demo Automation register page 4" time="51.171">
+<system-out><![CDATA[Given the user open "http://demo.automationtesting.in/Register.html" application.passed
+When the user verify page title "Automation Demo Site"......................passed
+Then the user verify rigister page fields...................................passed
+]]></system-out>
+</testcase>
+
+</testsuite>

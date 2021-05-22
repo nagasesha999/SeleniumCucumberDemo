@@ -1,0 +1,430 @@
+[ {
+  "line" : 1,
+  "elements" : [ {
+    "start_timestamp" : "2021-04-27T18:36:03.610Z",
+    "before" : [ {
+      "result" : {
+        "duration" : 4617000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.beginingOfTest(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "line" : 22,
+    "name" : "Demo Automation register page",
+    "description" : "",
+    "id" : "demo-automation-scenarios;demo-automation-register-page;;2",
+    "after" : [ {
+      "result" : {
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.afterScenario()"
+      }
+    }, {
+      "result" : {
+        "duration" : 4000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.tearDown(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "type" : "scenario",
+    "keyword" : "Scenario Outline",
+    "steps" : [ {
+      "result" : {
+        "duration" : 8829000000,
+        "status" : "passed"
+      },
+      "line" : 4,
+      "name" : "the user open \"http://demo.automationtesting.in/Register.html\" application",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"http://demo.automationtesting.in/Register.html\"",
+          "offset" : 14
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserOpenApplication(java.lang.String)"
+      },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 113000000,
+        "status" : "passed"
+      },
+      "line" : 5,
+      "name" : "the user verify page title \"Automation Demo Site\"",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"Automation Demo Site\"",
+          "offset" : 27
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyPageTitleAutomationDemoSite(java.lang.String)"
+      },
+      "keyword" : "When "
+    }, {
+      "result" : {
+        "duration" : 44762000000,
+        "status" : "passed"
+      },
+      "line" : 6,
+      "name" : "the user verify rigister page fields",
+      "match" : {
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyRigisterPageFields(io.cucumber.datatable.DataTable)"
+      },
+      "rows" : [ {
+        "cells" : [ "Full Name" ]
+      }, {
+        "cells" : [ "Address" ]
+      }, {
+        "cells" : [ "Email address" ]
+      }, {
+        "cells" : [ "Phone" ]
+      }, {
+        "cells" : [ "Gender" ]
+      }, {
+        "cells" : [ "Hobbies" ]
+      }, {
+        "cells" : [ "Languages" ]
+      }, {
+        "cells" : [ "Skills" ]
+      }, {
+        "cells" : [ "Country" ]
+      }, {
+        "cells" : [ "Select Country" ]
+      }, {
+        "cells" : [ "Date Of Birth" ]
+      }, {
+        "cells" : [ "Password" ]
+      }, {
+        "cells" : [ "Confirm Password" ]
+      } ],
+      "keyword" : "Then "
+    } ],
+    "tags" : [ {
+      "name" : "@DAP_001"
+    } ]
+  }, {
+    "start_timestamp" : "2021-04-27T18:37:02.195Z",
+    "before" : [ {
+      "result" : {
+        "duration" : 3000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.beginingOfTest(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "line" : 23,
+    "name" : "Demo Automation register page",
+    "description" : "",
+    "id" : "demo-automation-scenarios;demo-automation-register-page;;3",
+    "after" : [ {
+      "result" : {
+        "duration" : 1000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.afterScenario()"
+      }
+    }, {
+      "result" : {
+        "duration" : 1000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.tearDown(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "type" : "scenario",
+    "keyword" : "Scenario Outline",
+    "steps" : [ {
+      "result" : {
+        "duration" : 6871000000,
+        "status" : "passed"
+      },
+      "line" : 4,
+      "name" : "the user open \"http://demo.automationtesting.in/Register.html\" application",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"http://demo.automationtesting.in/Register.html\"",
+          "offset" : 14
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserOpenApplication(java.lang.String)"
+      },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 69000000,
+        "status" : "passed"
+      },
+      "line" : 5,
+      "name" : "the user verify page title \"Automation Demo Site\"",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"Automation Demo Site\"",
+          "offset" : 27
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyPageTitleAutomationDemoSite(java.lang.String)"
+      },
+      "keyword" : "When "
+    }, {
+      "result" : {
+        "duration" : 44750000000,
+        "status" : "passed"
+      },
+      "line" : 6,
+      "name" : "the user verify rigister page fields",
+      "match" : {
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyRigisterPageFields(io.cucumber.datatable.DataTable)"
+      },
+      "rows" : [ {
+        "cells" : [ "Full Name" ]
+      }, {
+        "cells" : [ "Address" ]
+      }, {
+        "cells" : [ "Email address" ]
+      }, {
+        "cells" : [ "Phone" ]
+      }, {
+        "cells" : [ "Gender" ]
+      }, {
+        "cells" : [ "Hobbies" ]
+      }, {
+        "cells" : [ "Languages" ]
+      }, {
+        "cells" : [ "Skills" ]
+      }, {
+        "cells" : [ "Country" ]
+      }, {
+        "cells" : [ "Select Country" ]
+      }, {
+        "cells" : [ "Date Of Birth" ]
+      }, {
+        "cells" : [ "Password" ]
+      }, {
+        "cells" : [ "Confirm Password" ]
+      } ],
+      "keyword" : "Then "
+    } ],
+    "tags" : [ {
+      "name" : "@DAP_001"
+    } ]
+  }, {
+    "start_timestamp" : "2021-04-27T18:37:53.908Z",
+    "before" : [ {
+      "result" : {
+        "duration" : 2000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.beginingOfTest(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "line" : 24,
+    "name" : "Demo Automation register page",
+    "description" : "",
+    "id" : "demo-automation-scenarios;demo-automation-register-page;;4",
+    "after" : [ {
+      "result" : {
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.afterScenario()"
+      }
+    }, {
+      "result" : {
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.tearDown(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "type" : "scenario",
+    "keyword" : "Scenario Outline",
+    "steps" : [ {
+      "result" : {
+        "duration" : 6084000000,
+        "status" : "passed"
+      },
+      "line" : 4,
+      "name" : "the user open \"http://demo.automationtesting.in/Register.html\" application",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"http://demo.automationtesting.in/Register.html\"",
+          "offset" : 14
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserOpenApplication(java.lang.String)"
+      },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 95000000,
+        "status" : "passed"
+      },
+      "line" : 5,
+      "name" : "the user verify page title \"Automation Demo Site\"",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"Automation Demo Site\"",
+          "offset" : 27
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyPageTitleAutomationDemoSite(java.lang.String)"
+      },
+      "keyword" : "When "
+    }, {
+      "result" : {
+        "duration" : 44032000000,
+        "status" : "passed"
+      },
+      "line" : 6,
+      "name" : "the user verify rigister page fields",
+      "match" : {
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyRigisterPageFields(io.cucumber.datatable.DataTable)"
+      },
+      "rows" : [ {
+        "cells" : [ "Full Name" ]
+      }, {
+        "cells" : [ "Address" ]
+      }, {
+        "cells" : [ "Email address" ]
+      }, {
+        "cells" : [ "Phone" ]
+      }, {
+        "cells" : [ "Gender" ]
+      }, {
+        "cells" : [ "Hobbies" ]
+      }, {
+        "cells" : [ "Languages" ]
+      }, {
+        "cells" : [ "Skills" ]
+      }, {
+        "cells" : [ "Country" ]
+      }, {
+        "cells" : [ "Select Country" ]
+      }, {
+        "cells" : [ "Date Of Birth" ]
+      }, {
+        "cells" : [ "Password" ]
+      }, {
+        "cells" : [ "Confirm Password" ]
+      } ],
+      "keyword" : "Then "
+    } ],
+    "tags" : [ {
+      "name" : "@DAP_001"
+    } ]
+  }, {
+    "start_timestamp" : "2021-04-27T18:38:44.137Z",
+    "before" : [ {
+      "result" : {
+        "duration" : 2000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.beginingOfTest(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "line" : 25,
+    "name" : "Demo Automation register page",
+    "description" : "",
+    "id" : "demo-automation-scenarios;demo-automation-register-page;;5",
+    "after" : [ {
+      "result" : {
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.afterScenario()"
+      }
+    }, {
+      "result" : {
+        "duration" : 1000000,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "co.stag.proj.steps.TestHooks.tearDown(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "type" : "scenario",
+    "keyword" : "Scenario Outline",
+    "steps" : [ {
+      "result" : {
+        "duration" : 5510000000,
+        "status" : "passed"
+      },
+      "line" : 4,
+      "name" : "the user open \"http://demo.automationtesting.in/Register.html\" application",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"http://demo.automationtesting.in/Register.html\"",
+          "offset" : 14
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserOpenApplication(java.lang.String)"
+      },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 70000000,
+        "status" : "passed"
+      },
+      "line" : 5,
+      "name" : "the user verify page title \"Automation Demo Site\"",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"Automation Demo Site\"",
+          "offset" : 27
+        } ],
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyPageTitleAutomationDemoSite(java.lang.String)"
+      },
+      "keyword" : "When "
+    }, {
+      "result" : {
+        "duration" : 45584000000,
+        "status" : "passed"
+      },
+      "line" : 6,
+      "name" : "the user verify rigister page fields",
+      "match" : {
+        "location" : "co.stag.proj.steps.DemoAutomationSteps.theUserVerifyRigisterPageFields(io.cucumber.datatable.DataTable)"
+      },
+      "rows" : [ {
+        "cells" : [ "Full Name" ]
+      }, {
+        "cells" : [ "Address" ]
+      }, {
+        "cells" : [ "Email address" ]
+      }, {
+        "cells" : [ "Phone" ]
+      }, {
+        "cells" : [ "Gender" ]
+      }, {
+        "cells" : [ "Hobbies" ]
+      }, {
+        "cells" : [ "Languages" ]
+      }, {
+        "cells" : [ "Skills" ]
+      }, {
+        "cells" : [ "Country" ]
+      }, {
+        "cells" : [ "Select Country" ]
+      }, {
+        "cells" : [ "Date Of Birth" ]
+      }, {
+        "cells" : [ "Password" ]
+      }, {
+        "cells" : [ "Confirm Password" ]
+      } ],
+      "keyword" : "Then "
+    } ],
+    "tags" : [ {
+      "name" : "@DAP_001"
+    } ]
+  } ],
+  "name" : "Demo Automation scenarios",
+  "description" : "",
+  "id" : "demo-automation-scenarios",
+  "keyword" : "Feature",
+  "uri" : "file:src/test/resources/features/DemoAutomation/DemoAutomation.feature",
+  "tags" : [ ]
+} ]

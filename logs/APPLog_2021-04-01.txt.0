@@ -1,0 +1,36 @@
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/Sample.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: PASSED
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/Sample.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: FAILED
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/Sample.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: PASSED
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/Sample.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: PASSED
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/MagLogin.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: FAILED
+
+[@sample] STARTED
+FEATURE: file:///D:/SEMAutomation/src/test/resources/features/MagLogin.feature:4
+SCENARIO: Verify the basic functionalities are working fine
+Verifying page title link...
+STATUS: PASSED

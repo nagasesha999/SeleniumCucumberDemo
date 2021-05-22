@@ -1,0 +1,18 @@
+
+[@DAP_001] STARTED
+FEATURE: file:///D:/projects/DemoAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page ACTUAL  : Full Name* = EXPECTED : Full Name
+Register page ACTUAL  : Address = EXPECTED : Address
+Register page ACTUAL  : Email address* = EXPECTED : Email address
+Register page ACTUAL  : Phone* = EXPECTED : Phone
+Register page ACTUAL  : Gender* = EXPECTED : Gender
+Register page ACTUAL  : Hobbies = EXPECTED : Hobbies
+Register page ACTUAL  : Languages = EXPECTED : Languages
+Register page ACTUAL  : Skills = EXPECTED : Skills
+Register page ACTUAL  : Country* = EXPECTED : Country
+Register page ACTUAL  : Select Country : = EXPECTED : Select Country
+Register page ACTUAL  : Date Of Birth = EXPECTED : Date Of Birth
+Register page ACTUAL  : Password = EXPECTED : Password
+Register page ACTUAL  : Confirm Password = EXPECTED : Confirm Password
+STATUS: PASSED

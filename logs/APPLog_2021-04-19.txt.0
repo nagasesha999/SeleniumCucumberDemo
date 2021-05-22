@@ -1,0 +1,294 @@
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+could not open application
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Address
+Register page fields is not present
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+Register page EXP field : Full Name ACT : Address
+Register page EXP field : Full Name ACT : Email address*
+Register page EXP field : Full Name ACT : Phone*
+Register page EXP field : Full Name ACT : Gender*
+Register page EXP field : Full Name ACT : Hobbies
+Register page EXP field : Full Name ACT : Languages
+Register page EXP field : Full Name ACT : Skills
+Register page EXP field : Full Name ACT : Country*
+Register page EXP field : Full Name ACT : Select Country :
+Register page EXP field : Full Name ACT : Date Of Birth
+Register page EXP field : Full Name ACT : Password
+Register page EXP field : Full Name ACT : Confirm Password
+Register page EXP field : Address ACT : Full Name*
+Register page EXP field : Address ACT : Address
+Register page EXP field : Address ACT : Email address*
+Register page EXP field : Address ACT : Phone*
+Register page EXP field : Address ACT : Gender*
+Register page EXP field : Address ACT : Hobbies
+Register page EXP field : Address ACT : Languages
+Register page EXP field : Address ACT : Skills
+Register page EXP field : Address ACT : Country*
+Register page EXP field : Address ACT : Select Country :
+Register page EXP field : Address ACT : Date Of Birth
+Register page EXP field : Address ACT : Password
+Register page EXP field : Address ACT : Confirm Password
+Register page EXP field : Email address ACT : Full Name*
+Register page EXP field : Email address ACT : Address
+Register page EXP field : Email address ACT : Email address*
+Register page EXP field : Email address ACT : Phone*
+Register page EXP field : Email address ACT : Gender*
+Register page EXP field : Email address ACT : Hobbies
+Register page EXP field : Email address ACT : Languages
+Register page EXP field : Email address ACT : Skills
+Register page EXP field : Email address ACT : Country*
+Register page EXP field : Email address ACT : Select Country :
+Register page EXP field : Email address ACT : Date Of Birth
+Register page EXP field : Email address ACT : Password
+Register page EXP field : Email address ACT : Confirm Password
+Register page EXP field : Phone ACT : Full Name*
+Register page EXP field : Phone ACT : Address
+Register page EXP field : Phone ACT : Email address*
+Register page EXP field : Phone ACT : Phone*
+Register page EXP field : Phone ACT : Gender*
+Register page EXP field : Phone ACT : Hobbies
+Register page EXP field : Phone ACT : Languages
+Register page EXP field : Phone ACT : Skills
+Register page EXP field : Phone ACT : Country*
+Register page EXP field : Phone ACT : Select Country :
+Register page EXP field : Phone ACT : Date Of Birth
+Register page EXP field : Phone ACT : Password
+Register page EXP field : Phone ACT : Confirm Password
+Register page EXP field : Gender ACT : Full Name*
+Register page EXP field : Gender ACT : Address
+Register page EXP field : Gender ACT : Email address*
+Register page EXP field : Gender ACT : Phone*
+Register page EXP field : Gender ACT : Gender*
+Register page EXP field : Gender ACT : Hobbies
+Register page EXP field : Gender ACT : Languages
+Register page EXP field : Gender ACT : Skills
+Register page EXP field : Gender ACT : Country*
+Register page EXP field : Gender ACT : Select Country :
+Register page EXP field : Gender ACT : Date Of Birth
+Register page EXP field : Gender ACT : Password
+Register page EXP field : Gender ACT : Confirm Password
+Register page EXP field : Hobbies ACT : Full Name*
+Register page EXP field : Hobbies ACT : Address
+Register page EXP field : Hobbies ACT : Email address*
+Register page EXP field : Hobbies ACT : Phone*
+Register page EXP field : Hobbies ACT : Gender*
+Register page EXP field : Hobbies ACT : Hobbies
+Register page EXP field : Hobbies ACT : Languages
+Register page EXP field : Hobbies ACT : Skills
+Register page EXP field : Hobbies ACT : Country*
+Register page EXP field : Hobbies ACT : Select Country :
+Register page EXP field : Hobbies ACT : Date Of Birth
+Register page EXP field : Hobbies ACT : Password
+Register page EXP field : Hobbies ACT : Confirm Password
+Register page EXP field : Languages ACT : Full Name*
+Register page EXP field : Languages ACT : Address
+Register page EXP field : Languages ACT : Email address*
+Register page EXP field : Languages ACT : Phone*
+Register page EXP field : Languages ACT : Gender*
+Register page EXP field : Languages ACT : Hobbies
+Register page EXP field : Languages ACT : Languages
+Register page EXP field : Languages ACT : Skills
+Register page EXP field : Languages ACT : Country*
+Register page EXP field : Languages ACT : Select Country :
+Register page EXP field : Languages ACT : Date Of Birth
+Register page EXP field : Languages ACT : Password
+Register page EXP field : Languages ACT : Confirm Password
+Register page EXP field : Skills ACT : Full Name*
+Register page EXP field : Skills ACT : Address
+Register page EXP field : Skills ACT : Email address*
+Register page EXP field : Skills ACT : Phone*
+Register page EXP field : Skills ACT : Gender*
+Register page EXP field : Skills ACT : Hobbies
+Register page EXP field : Skills ACT : Languages
+Register page EXP field : Skills ACT : Skills
+Register page EXP field : Skills ACT : Country*
+Register page EXP field : Skills ACT : Select Country :
+Register page EXP field : Skills ACT : Date Of Birth
+Register page EXP field : Skills ACT : Password
+Register page EXP field : Skills ACT : Confirm Password
+Register page EXP field : Country ACT : Full Name*
+Register page EXP field : Country ACT : Address
+Register page EXP field : Country ACT : Email address*
+Register page EXP field : Country ACT : Phone*
+Register page EXP field : Country ACT : Gender*
+Register page EXP field : Country ACT : Hobbies
+Register page EXP field : Country ACT : Languages
+Register page EXP field : Country ACT : Skills
+Register page EXP field : Country ACT : Country*
+Register page EXP field : Country ACT : Select Country :
+Register page EXP field : Country ACT : Date Of Birth
+Register page EXP field : Country ACT : Password
+Register page EXP field : Country ACT : Confirm Password
+Register page EXP field : Select Country ACT : Full Name*
+Register page EXP field : Select Country ACT : Address
+Register page EXP field : Select Country ACT : Email address*
+Register page EXP field : Select Country ACT : Phone*
+Register page EXP field : Select Country ACT : Gender*
+Register page EXP field : Select Country ACT : Hobbies
+Register page EXP field : Select Country ACT : Languages
+Register page EXP field : Select Country ACT : Skills
+Register page EXP field : Select Country ACT : Country*
+Register page EXP field : Select Country ACT : Select Country :
+Register page EXP field : Select Country ACT : Date Of Birth
+Register page EXP field : Select Country ACT : Password
+Register page EXP field : Select Country ACT : Confirm Password
+Register page EXP field : Date Of Birth ACT : Full Name*
+Register page EXP field : Date Of Birth ACT : Address
+Register page EXP field : Date Of Birth ACT : Email address*
+Register page EXP field : Date Of Birth ACT : Phone*
+Register page EXP field : Date Of Birth ACT : Gender*
+Register page EXP field : Date Of Birth ACT : Hobbies
+Register page EXP field : Date Of Birth ACT : Languages
+Register page EXP field : Date Of Birth ACT : Skills
+Register page EXP field : Date Of Birth ACT : Country*
+Register page EXP field : Date Of Birth ACT : Select Country :
+Register page EXP field : Date Of Birth ACT : Date Of Birth
+Register page EXP field : Date Of Birth ACT : Password
+Register page EXP field : Date Of Birth ACT : Confirm Password
+Register page EXP field : Password ACT : Full Name*
+Register page EXP field : Password ACT : Address
+Register page EXP field : Password ACT : Email address*
+Register page EXP field : Password ACT : Phone*
+Register page EXP field : Password ACT : Gender*
+Register page EXP field : Password ACT : Hobbies
+Register page EXP field : Password ACT : Languages
+Register page EXP field : Password ACT : Skills
+Register page EXP field : Password ACT : Country*
+Register page EXP field : Password ACT : Select Country :
+Register page EXP field : Password ACT : Date Of Birth
+Register page EXP field : Password ACT : Password
+Register page EXP field : Password ACT : Confirm Password
+Register page EXP field : Confirm Password ACT : Full Name*
+Register page EXP field : Confirm Password ACT : Address
+Register page EXP field : Confirm Password ACT : Email address*
+Register page EXP field : Confirm Password ACT : Phone*
+Register page EXP field : Confirm Password ACT : Gender*
+Register page EXP field : Confirm Password ACT : Hobbies
+Register page EXP field : Confirm Password ACT : Languages
+Register page EXP field : Confirm Password ACT : Skills
+Register page EXP field : Confirm Password ACT : Country*
+Register page EXP field : Confirm Password ACT : Select Country :
+Register page EXP field : Confirm Password ACT : Date Of Birth
+Register page EXP field : Confirm Password ACT : Password
+Register page EXP field : Confirm Password ACT : Confirm Password
+STATUS: PASSED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+Register page EXP field : Address ACT : Address
+Register page EXP field : Email address ACT : Email address*
+Register page EXP field : Phone ACT : Phone*
+Register page EXP field : Gender ACT : Gender*
+Register page EXP field : Hobbies ACT : Hobbies
+Register page EXP field : Languages ACT : Languages
+Register page EXP field : Skills ACT : Skills
+Register page EXP field : Country ACT : Country*
+Register page EXP field : Country ACT : Select Country :
+Register page EXP field : Select Country ACT : Select Country :
+Register page EXP field : Date Of Birth ACT : Date Of Birth
+Register page EXP field : Password ACT : Password
+Register page EXP field : Password ACT : Confirm Password
+Register page EXP field : Confirm Password ACT : Confirm Password
+STATUS: PASSED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+STATUS: FAILED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page EXP field : Full Name ACT : Full Name*
+Register page EXP field : Address ACT : Address
+Register page EXP field : Email address ACT : Email address*
+Register page EXP field : Phone ACT : Phone*
+Register page EXP field : Gender ACT : Gender*
+Register page EXP field : Hobbies ACT : Hobbies
+Register page EXP field : Languages ACT : Languages
+Register page EXP field : Skills ACT : Skills
+Register page EXP field : Country ACT : Country*
+Register page EXP field : Select Country ACT : Select Country :
+Register page EXP field : Date Of Birth ACT : Date Of Birth
+Register page EXP field : Password ACT : Password
+Register page EXP field : Confirm Password ACT : Confirm Password
+STATUS: PASSED
+
+[@DAP_001] STARTED
+FEATURE: file:///E:/project/SEMAutomation/src/test/resources/features/DemoAutomation/DemoAutomation.feature:22
+SCENARIO: Demo Automation register page
+Register page ACTUAL  : Full Name* = EXPECTED : Full Name
+Register page ACTUAL  : Address = EXPECTED : Address
+Register page ACTUAL  : Email address* = EXPECTED : Email address
+Register page ACTUAL  : Phone* = EXPECTED : Phone
+Register page ACTUAL  : Gender* = EXPECTED : Gender
+Register page ACTUAL  : Hobbies = EXPECTED : Hobbies
+Register page ACTUAL  : Languages = EXPECTED : Languages
+Register page ACTUAL  : Skills = EXPECTED : Skills
+Register page ACTUAL  : Country* = EXPECTED : Country
+Register page ACTUAL  : Select Country : = EXPECTED : Select Country
+Register page ACTUAL  : Date Of Birth = EXPECTED : Date Of Birth
+Register page ACTUAL  : Password = EXPECTED : Password
+Register page ACTUAL  : Confirm Password = EXPECTED : Confirm Password
+STATUS: PASSED
